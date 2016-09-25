@@ -9,10 +9,6 @@ which sells all kinds of wacky products.
 Write a program that calculates 
 how much it will cost you to buy all 
 the clocks and watches in the store.⏰ ⌚️ 
-Attach your answer (in dollars), as well as your program (any language) below.
-You can find the endpoint for Shopicruit's products at: shopicruit.myshopify.com/products.json?page=1 
-(Keep in mind there are multiple pages of results). 
-
 
 How To Use: 
 
